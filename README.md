@@ -1,6 +1,6 @@
 # Quantitative-Analysis
 
-![An image for the header of the Repository](../Images/Quantitative-vs.-Qualitative-Approach-to-Value-Investing.png)
+![An image for the header of the Repository](./Images/Quantitative-vs.-Qualitative-Approach-to-Value-Investing.png)
 
 Analyzing Funds for Investment portfolio
 
